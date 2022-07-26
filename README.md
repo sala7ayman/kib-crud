@@ -36,7 +36,7 @@ app_1      | [2022-07-26T05:17:34+00:00] INFO: Swagger docs available at http://
 ```
 
 
-![running app](https://i.im.ge/2022/07/26/FUwlnh.png)
+![running app](https://i.im.ge/2022/07/26/FUw0F0.png)
 
 
 
