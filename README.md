@@ -29,10 +29,9 @@ docker-compose up
 and should see something like that ruuning on port **8080**
 
 ```ruby
-app_1      | [2022-07-26T05:17:33+00:00] INFO: App is running at http://localhost:8080
-app_1      | [2022-07-26T05:17:33+00:00] INFO: dbURI is mongodb://KibUser:KibPwd@mongodb:27017/kib-crud?authSource=admin
-app_1      | [2022-07-26T05:17:34+00:00] INFO: database connected
-app_1      | [2022-07-26T05:17:34+00:00] INFO: Swagger docs available at http://localhost:8080/docs
+app_1      | [2022-07-26T06:03:39+00:00] INFO: App is running at http://localhost:8080
+app_1      | [2022-07-26T06:03:39+00:00] INFO: database connected
+app_1      | [2022-07-26T06:03:39+00:00] INFO: Swagger docs available at http://localhost:8080/docs
 ```
 
 
